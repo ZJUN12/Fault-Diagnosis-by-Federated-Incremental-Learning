@@ -16,11 +16,12 @@ I would like to thank co-author for their valuable guidance and support.
 This project also benefited from the open-source projects and community contributions that made it possible.
 
 Some key references that inspired this work include:  
-1. Wang L, Zhang X, Su H, et al. A comprehensive survey of continual learning: Theory, method and application[J]. IEEE transactions on pattern analysis and machine intelligence, 2024, 46(8): 5362-5383.
-2. Rebuffi S A, Kolesnikov A, Sperl G, et al. icarl: Incremental classifier and representation learning[C]//Proceedings of the IEEE conference on Computer Vision and Pattern Recognition. 2017: 2001-2010.
-3. Dong J, Wang L, Fang Z, et al. Federated class-incremental learning[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022: 10164-10173.
-4. Wu Y, Chen Y, Wang L, et al. Large scale incremental learning[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019: 374-382.
-5. Liu Z, He X, Huang B, et al. Incremental Learning-Enabled Fault Diagnosis of Dynamic Systems: A Comprehensive Review[J]. IEEE Transactions on Cybernetics, 2025.
+1. Liu Z, He X, Huang B, et al. Incremental Learning-Enabled Fault Diagnosis of Dynamic Systems: A Comprehensive Review[J]. IEEE Transactions on Cybernetics, 2025.
+2. Wang L, Zhang X, Su H, et al. A comprehensive survey of continual learning: Theory, method and application[J]. IEEE transactions on pattern analysis and machine intelligence, 2024, 46(8): 5362-5383.
+3. Rebuffi S A, Kolesnikov A, Sperl G, et al. icarl: Incremental classifier and representation learning[C]//Proceedings of the IEEE conference on Computer Vision and Pattern Recognition. 2017: 2001-2010.
+4. Dong J, Wang L, Fang Z, et al. Federated class-incremental learning[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022: 10164-10173.
+5. Wu Y, Chen Y, Wang L, et al. Large scale incremental learning[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019: 374-382.
+
 
 ***Prerequisites:***
 1. Python == 3.10
