@@ -1,6 +1,6 @@
 # Fault-Diagnosis-by-Federated-Incremental-Learning
 
-This paper has been submitted to ***IEEE Transactions on Cybernetics*** and is currently awaiting the final decision.
+%This paper has been submitted to ***IEEE Transactions on Cybernetics*** and is currently awaiting the final decision.
 
 This paper proposes an innovative **federated incremental collaborative fault diagnosis framework** for **dynamic data streams**. We focus on a particularly challenging task: performing collaborative diagnosis across **multiple wind farms** under dynamic streaming conditions. The proposed federated learning framework employs a ***three-level hierarchical architecture***, enabling scalable and privacy-preserving collaboration among the wind farms.
 
